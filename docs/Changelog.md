@@ -1,6 +1,6 @@
 #easy-crypt Changelog
 
-## Release 0.0.2:
+## Release 0.0.2: Feb 14, 2021
 - added old section -> added Caesar and Vigener cipher 
 - added pyprind support for Vigener and Caesar
 - added Exceptions

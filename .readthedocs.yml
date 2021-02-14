@@ -6,10 +6,11 @@
 version: 2
 
 mkdocs:
+  version: 1.1.2
   configuration: mkdocs.yml
   fail_on_warning: false
   
-mkdocs.version: 1.1.2
+
 # Optionally build your docs in additional formats such as PDF
 #formats:
    #- pdf
