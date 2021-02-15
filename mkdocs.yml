@@ -3,8 +3,8 @@ theme: readthedocs
 
 nav:
     - Home: index.md
-    - ReadMe: basic_info.md
     - Hash: Hash.md
     - Chipher: Cipher.md
     - Old Chipher: old_chipher.md
     - Changelog: Changelog.md
+    - ReadMe: basic_info.md

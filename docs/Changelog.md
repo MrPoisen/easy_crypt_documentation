@@ -1,11 +1,17 @@
 #easy-crypt Changelog
 
+## Release 0.0.3: Feb 15, 2021
+- added Rail fence, Affine and Atbash cipher
+- added a random key function to Vigener
+- changes in Caesar and Vigener cipher  
+- small improvement in the documentation
+
 ## Release 0.0.2: Feb 14, 2021
 - added old section -> added Caesar and Vigener cipher 
 - added pyprind support for Vigener and Caesar
 - added Exceptions
 - added docs to the functions
-- added documentation at readthedocs
+- added the documentation at readthedocs
 
 ## Release 0.0.1: Feb 10, 2021
 

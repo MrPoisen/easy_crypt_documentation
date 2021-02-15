@@ -1,4 +1,4 @@
-# Project Description
+
 
 This is a simple library. You can use it to hash, encrypt and decrypt data. It allows easy use of the [pychryptodome](https://pypi.org/project/pycryptodome/) library.
 
@@ -24,4 +24,5 @@ to_compare = "Hello Hash"
 print(compare_hash(pw,hash)) # prints "True"; The output is a boolean
 ```
 
-You can use old ciphers too, like Vigener or Caesar.
+You can use old ciphers too, like Vigener or Caesar. More are being added.  
+For cryptographically secure encryption/decryption use `easy_crypt.cipher.cypher_funct`
