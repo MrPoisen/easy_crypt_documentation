@@ -8,7 +8,7 @@ Old ciphers are also being added.
 - [Old Chipher](old_chipher.md)
 - [Hash](Hash.md)
 - [Changelog](Changelog.md)  
-- [ReadMe](basic_info.md)
+- [ReadMe](readme.md)
 
 *Version = 0.0.3*  
 Note: **bold** types are the standard ones

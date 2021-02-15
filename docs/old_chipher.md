@@ -185,7 +185,7 @@ decrypt() can take four arguments:
 >:return: returns decrypted str (type: **str**)
 
 
-## [Atbash](https://en.wikipedia.org/wiki/Atbash)
+## [Atbash cipher](https://en.wikipedia.org/wiki/Atbash)
 The standard alphabet is:  
 `standard_alphabet = string.ascii_lowercase + string.ascii_uppercase + string.punctuation + string.digits + "ÄÖÜäöüßÃŸâ€"`
 

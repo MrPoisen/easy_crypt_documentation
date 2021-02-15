@@ -1,5 +1,3 @@
-#easy-crypt Changelog
-
 ## Release 0.0.3: Feb 15, 2021
 - added Rail fence, Affine and Atbash cipher
 - added a random key function to Vigener
