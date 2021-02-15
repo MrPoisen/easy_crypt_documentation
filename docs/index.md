@@ -1,4 +1,4 @@
-# Welcome to the [easy-crypt](https://test.pypi.org/project/example-pkg-MrPoisen/) documentation
+# Welcome to the [easy-crypt](https://test.pypi.org/project/easy-crypt/) documentation
 
 This is a simple library. You can use it to hash, encrypt and decrypt data. It allows easy use of the [pychryptodome](https://pypi.org/project/pycryptodome/) library.
 
