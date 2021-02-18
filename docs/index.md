@@ -1,4 +1,4 @@
-# Welcome to the [easy-crypt](https://pypi.org/project/easy-cryptography/) documentation
+# Welcome to the [easy-cryptography](https://pypi.org/project/easy-cryptography/) documentation
 
 This is a simple library. You can use it to hash, encrypt and decrypt data. It allows easy use of the [pychryptodome](https://pypi.org/project/pycryptodome/) library.
 
