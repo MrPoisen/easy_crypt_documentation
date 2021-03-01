@@ -136,20 +136,29 @@ encrypt() can take four arguments:
 >`encrypt(text:str, a:int, b:int, alphabet=None)`
 
 - param text: the text that is supposed to be encrypted(type: **str**)
+  
 - param a: key a, must be a coprime to the length of the alphabet (type: **int**)
+  
 - param b: key b (type: **int**)
+  
 - param alphabet: the alphabet that should be used (type: **str**)
+  
 - return: returns encrypted str (type: **str**)
 
 decrypt() can take four arguments:
 
 >`decrypt(text:str, a:int, b:int, alphabet=None)`
 
-- param text: the text that is supposed to be decrypted(type: **str**)
-- param a: key a, must be a coprime to the length of the alphabet (type: **int**)
-- param b: key b (type: **int**)
+- param text: the text that is supposed to be decrypted(type: **str**)  
+  
+- param a: key a, must be a coprime to the length of the alphabet (type: **int**)   
+  
+- param b: key b (type: **int**)   
+  
 - param alphabet: the alphabet that should be used (type: **str**)
+  
 - return: returns decrypted str (type: **str**)
+
 
 
 ## [Atbash cipher](https://en.wikipedia.org/wiki/Atbash)
