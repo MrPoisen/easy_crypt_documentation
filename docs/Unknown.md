@@ -26,22 +26,22 @@ print(un.break_(ciphertext,alphabet=alphabet,fast=True,intell=["those"], ignore_
 #First the encryption method, second the decrypted text, third the key/password
 ````
    
-> ``get_max_time(text, alphabet=None, fast=True, addpwlist=None)``
-- calculates the max time needed for decryption. It should be used for the pyprind module
-- alphabet needs to be a str, fast a boolean and addpwlist a list
-- returns an int
+> ``get_max_time(text, alphabet=None, fast=True, addpwlist=None)``   
+- calculates the max time needed for decryption. It should be used for the pyprind module  
+- alphabet needs to be a str, fast a boolean and addpwlist a list  
+- returns an int  
 
-> ``test_for_divisors(a, divisors=None)``
-- tests if a value a can be divided by the divisors without rest
-- a must be an int or float, divisors must be a list
-- returns a bool
+> ``test_for_divisors(a, divisors=None)``   
+- tests if a value a can be divided by the divisors without rest  
+- a must be an int or float, divisors must be a list  
+- returns a bool  
 
-> ``check(test)``
+> ``check(test)``   
 - checks if the given text can be hex, base64 and returns the coincidence too
 - test must be a string
 - returns a bool for hex, another bool for base64 and a float for thee coincidence
 
-> ``find(self, text: str, list_: list, split=" ", ignore_capse=False, ignore_punctuation=False, ignore_numbers=False, all_intell=None)``
+> ``find(self, text: str, list_: list, split=" ", ignore_capse=False, ignore_punctuation=False, ignore_numbers=False, all_intell=None)``   
 - searches if given words are in a text
 - text must be a str
 - list_ must be a list
@@ -52,7 +52,7 @@ print(un.break_(ciphertext,alphabet=alphabet,fast=True,intell=["those"], ignore_
 - all_intell must be None, a bool, int or float not smaller than 0 and larger than 1
 - returns a bool
 
-> ``break_(text, **kwargs)``
+> ``break_(text, **kwargs)``   
 - tries to decrypt an unknown cipher
 - text must be a str
 - keywords:
