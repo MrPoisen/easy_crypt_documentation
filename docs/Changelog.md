@@ -1,4 +1,4 @@
-## Relaese 0.0.4
+## Release 0.0.4: March 01, 2021
 - added unknown module:
     - added Generator class
     - added Analyse class
