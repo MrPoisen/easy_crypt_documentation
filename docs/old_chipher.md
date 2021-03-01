@@ -25,6 +25,7 @@ print(decr) #prints "Hello"
 ````
 `encrypt()` can take 4 arguments:
 > `encrypt(text, shift, alphabet=None, progbar=False)`
+
 - param text: The text that is supposed to be encrypted (type: **str**)
 - param shift: The Change of the text (type: **int**)
 - param alphabet: The used Alphabet for encryption (type: **str**)
@@ -34,6 +35,7 @@ print(decr) #prints "Hello"
 
 `decrypt()` can take 4 arguments:
 > `decrypt(text, shift, alphabet=None, progbar=False)`
+
 - param text: The text that is supposed to be decrypted (type: **str**)
 - param shift: The Change of the text (type: **int**)
 - param alphabet: alphabet: The used Alphabet for decryption (type: **str**)
@@ -71,6 +73,7 @@ key = v.gen_keys(10) # The can lenght can be defined; standard is 8
 `encrypt()` can take 4 arguments:
 
 >`encrypt(text, pw, alphabet=None, progbar=False)`
+> 
 - param text: The text that is supposed to be encrypted (type: **str**)
 - param pw: The password for the encryption (type: **str**)
 - param alphabet: The used Alphabet for encryption (type: **str**)
@@ -165,7 +168,7 @@ decrypt() can take four arguments:
 The standard alphabet is:  
 `standard_alphabet = string.ascii_lowercase + string.ascii_uppercase + string.punctuation + string.digits + "ÄÖÜäöüßÃŸâ€"`
 
-The cipher function encyrypts and decrypts.
+The cipher function encrypts and decrypts.
 ``` python
 from easy_cryptography.chipher.old import atbash as a
 encr = a.cipher("Hello") #only needs the text; it can take an alphabet as a argument
