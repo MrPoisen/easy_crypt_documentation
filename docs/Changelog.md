@@ -1,3 +1,10 @@
+## Relaese 0.0.4
+- added unknown module:
+    - added Generator class
+    - added Analyse class
+    - added Unknown class
+- added test directory for pytest testing
+
 ## Release 0.0.3: Feb 15, 2021
 - added Rail fence, Affine and Atbash cipher
 - added a random key function to Vigener

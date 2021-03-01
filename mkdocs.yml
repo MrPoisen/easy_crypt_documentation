@@ -1,4 +1,4 @@
-site_name: easy_crypt Docs
+site_name: easy_cryptography Docs
 theme: readthedocs
 
 nav:
@@ -6,5 +6,9 @@ nav:
     - Hash: Hash.md
     - Chipher: Cipher.md
     - Old Chipher: old_chipher.md
+    - Unknown module:
+        - Generator class: Generator.md
+        - Analyse class: Analyse.md
+        - Unknown class: Unknown.md
     - Changelog: Changelog.md
     - ReadMe: base_info.md
