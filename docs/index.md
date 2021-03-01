@@ -12,5 +12,6 @@ You can also find old ciphers here
 - [Changelog](Changelog.md)
 - [ReadMe](base_info.md)
 
+If you encounter anny issues, please report them on my [github](https://github.com/MrPoisen/easy_crypt)  
 *Version = 0.0.4*  
 Note: **bold** types are the standard ones
